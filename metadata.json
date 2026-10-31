@@ -1,0 +1,6 @@
+{
+  "name": "VeerSetu - Indian Defence Welfare & Career Guidance",
+  "description": "One Bridge. Every Veer. A modern, centralized platform connecting serving Army personnel, veterans, aspiring candidates, and Shaheed families with verified welfare schemes, benefits, and career recruitment routes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
